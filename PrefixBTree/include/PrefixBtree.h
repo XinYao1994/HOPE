@@ -1,5 +1,6 @@
 #pragma once
 
+#include <iostream>
 #include <immintrin.h>
 #include <sched.h>
 #include <algorithm>
